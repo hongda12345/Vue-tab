@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.root{
+    width:800px;
+    height:auto;
+    margin:auto;
+}
+header{
+    width:800px;
+    height: 50px;
+    margin:auto;
+    margin-top:30px;
+    text-align: center;
+    line-height: 50px;
+    color:#00B7FF;
+    font-size:24px;
+}
+header a{
+    font-size:20px;
+    color:#00B7FF;
+}
+.content,.contents{
+    width:800px;
+    height:auto;
+    margin:auto;
+}
+.content table{
+    width:100%;
+}
+th,td{
+    border:1px solid #ccc;
+    text-align: center;
+}
